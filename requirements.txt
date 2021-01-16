@@ -1,2 +1,4 @@
 gpt-2-simple
 tensorflow-gpu
+numpy==1.19.2
+tensorflow
